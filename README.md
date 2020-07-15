@@ -1,6 +1,6 @@
 # Issue your token on Hkdchain
 
-English | [简体中文](https://github.com/hkd-org/issue-token/README_ZH.md)
+English | [简体中文](https://github.com/hkd-org/issue-token/blob/master/README_ZH.md)
 
 ## Before issuing a token, you need to prepare the following:
 1.Prepare an address that holds native HKD tokens (sufficient power)
